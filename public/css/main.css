@@ -1,0 +1,30 @@
+.user {
+  margin-left: 20px;
+}
+
+.content {
+  min-height: calc(100vh - 70px);
+}
+
+.form {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.create {
+  margin-top: 15px;
+}
+
+.pagination {
+  margin-top: 15px;
+  display: inline-flex;
+}
+
+.footer {
+  height: 70px;
+  background-color: #b0b0b0;
+}
+
+.follow {
+  margin-top: 10px;
+}
